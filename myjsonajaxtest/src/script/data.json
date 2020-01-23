@@ -1,0 +1,68 @@
+[
+    {
+      "name": "fishy",
+      "species": "cat123",
+      "foods": {
+        "likes": [
+          "tuna",
+          "catnip"
+        ],
+        "dislikes": [
+          "ham",
+          "zucchini"
+        ]
+      }
+    },
+    {
+      "name": "Barky",
+      "species": "dog",
+      "foods": {
+        "likes": [
+          "bones",
+          "carrots"
+        ],
+        "dislikes": [
+          "tuna"
+        ]
+      }
+    },
+    {
+      "name": "Purrpaws",
+      "species": "cat",
+      "foods": {
+        "likes": [
+          "mice", 
+          "eagle"
+        ],
+        "dislikes": [
+          "cookies"
+        ]
+      }
+    },
+    {
+      "name": "Fishy",
+      "species": "Fish",
+      "foods": {
+        "likes": [
+          "Dinasour",
+          "Whales"
+        ],
+        "dislikes": [
+          "Fish Food"
+        ]
+      }
+    },
+    {
+      "name": "Carrot",
+      "species": "Birds",
+      "foods": {
+        "likes": [
+          "Pandesal",
+          "Coffee"
+        ],
+        "dislikes": [
+          "Bird Foods"
+        ]
+      }
+    }
+  ]

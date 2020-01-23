@@ -1,0 +1,9 @@
+.hide-me{
+    display: none !important;
+    transition: 0.5s ease-in-out;
+}
+
+button{
+    height: 50px;
+    width: 200px;
+}
